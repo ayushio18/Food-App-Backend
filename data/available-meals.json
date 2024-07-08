@@ -1,0 +1,128 @@
+[
+  {
+    "id": "i1",
+    "name": "Butter Chicken",
+    "price": "300",
+    "description": "Tender chicken pieces cooked in a rich and creamy tomato-based sauce, served with naan.",
+    "image": "images/butter-chicken.jpg"
+  },
+  {
+    "id": "i2",
+    "name": "Paneer Tikka",
+    "price": "250",
+    "description": "Marinated paneer cubes grilled to perfection, served with mint chutney.",
+    "image": "images/paneer-tikka.jpg"
+  },
+  {
+    "id": "i3",
+    "name": "Masala Dosa",
+    "price": "120",
+    "description": "A crispy rice crepe filled with spiced potato filling, served with sambar and coconut chutney.",
+    "image": "images/masala-dosa.jpg"
+  },
+  {
+    "id": "i4",
+    "name": "Biryani",
+    "price": "200",
+    "description": "Fragrant basmati rice cooked with tender pieces of chicken and a blend of aromatic spices.",
+    "image": "images/biryani.jpg"
+  },
+  {
+    "id": "i5",
+    "name": "Chole Bhature",
+    "price": "120",
+    "description": "Spiced chickpeas served with deep-fried bread, a popular North Indian dish.",
+    "image": "images/chole-bhature.jpg"
+  },
+  {
+    "id": "i6",
+    "name": "Tandoori Chicken",
+    "price": "300",
+    "description": "Chicken marinated in yogurt and spices, cooked in a tandoor oven, served with mint chutney.",
+    "image": "images/tandoori-chicken.jpg"
+  },
+  {
+    "id": "i7",
+    "name": "Samosa",
+    "price": "20",
+    "description": "Crispy pastry filled with spiced potatoes and peas, served with tamarind chutney.",
+    "image": "images/samosa.jpg"
+  },
+  {
+    "id": "i8",
+    "name": "Rogan Josh",
+    "price": "400",
+    "description": "Tender lamb pieces cooked in a flavorful and aromatic curry sauce.",
+    "image": "images/rogan-josh.jpg"
+  },
+  {
+    "id": "i9",
+    "name": "Pav Bhaji",
+    "price": "150",
+    "description": "Spicy vegetable mash served with buttered bread rolls, a popular street food.",
+    "image": "images/pav-bhaji.jpg"
+  },
+  {
+    "id": "i10",
+    "name": "Palak Paneer",
+    "price": "200",
+    "description": "Cubes of paneer cooked in a creamy spinach sauce, served with naan or rice.",
+    "image": "images/palak-paneer.jpg"
+  },
+  {
+    "id": "i11",
+    "name": "Gulab Jamun",
+    "price": "45",
+    "description": "Deep-fried dough balls soaked in a sweet syrup, a classic Indian dessert.",
+    "image": "images/gulab-jamun.jpg"
+  },
+  {
+    "id": "i12",
+    "name": "Aloo Paratha",
+    "price": "80",
+    "description": "Whole wheat flatbread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
+    "image": "images/aloo-paratha.jpg"
+  },
+  {
+    "id": "i13",
+    "name": "Matar Paneer",
+    "price": "200",
+    "description": "Paneer cubes and green peas cooked in a tomato-based gravy, served with naan or rice.",
+    "image": "images/matar-paneer.jpg"
+  },
+  {
+    "id": "i14",
+    "name": "Chicken Tikka Masala",
+    "price": "300",
+    "description": "Grilled chicken pieces cooked in a spiced creamy tomato sauce, served with rice or naan.",
+    "image": "images/chicken-tikka-masala.jpg"
+  },
+  {
+    "id": "i16",
+    "name": "Pani Puri",
+    "price": "30",
+    "description": "Crispy hollow puris filled with spicy and tangy water, tamarind chutney, and chickpeas.",
+    "image": "images/pani-puri.jpg"
+  },
+  {
+    "id": "i17",
+    "name": "Hyderabadi Dum Biryani",
+    "price": "300",
+    "description": "Aromatic basmati rice cooked with marinated meat and spices, served with raita.",
+    "image": "images/hyderabadi-dum-biryani.jpg"
+  },
+  {
+    "id": "i18",
+    "name": "Dal Makhani",
+    "price": "200",
+    "description": "Creamy black lentils cooked with butter and spices, served with naan or rice.",
+    "image": "images/dal-makhani.jpg"
+  },
+  {
+    "id": "i19",
+    "name": "Kheer",
+    "price": "120",
+    "description": "A sweet rice pudding made with milk, sugar, and flavored with cardamom and nuts.",
+    "image": "images/kheer.jpg"
+  }
+]
